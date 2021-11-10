@@ -3,6 +3,7 @@ Youtube Content: https://youtu.be/GVcqozy_q6M
 Subscribe to my Youtube channel: http://youtube.com/c/MikeMiner316?sub_confirmation=1
 
 # Installation Guide:
+* NOTE: Take note to change the wallet address and worker name inside the Dockerfile
 
 1. Download and install docker on MAC: https://docs.docker.com/desktop/mac/install/
 2. chmod +x deploy.sh
